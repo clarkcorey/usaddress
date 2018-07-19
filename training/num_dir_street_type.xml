@@ -1,0 +1,5 @@
+<AddressCollection>
+  <AddressString><AddressNumber>3000</AddressNumber> <StreetNamePreDirectional>W</StreetNamePreDirectional> <StreetName>LAKE</StreetName> <StreetNamePostType>ST</StreetNamePostType> <PlaceName>FORT</PlaceName> <PlaceName>COLLINS</PlaceName> <StateName>CO</StateName> <ZipCode>80521</ZipCode></AddressString>
+  <AddressString><AddressNumber>2649</AddressNumber> <StreetNamePreDirectional>E</StreetNamePreDirectional> <StreetName>MULBERRY</StreetName> <StreetNamePostType>ST</StreetNamePostType> <PlaceName>FORT</PlaceName> <PlaceName>COLLINS</PlaceName> <StateName>CO</StateName> <ZipCode>80524</ZipCode></AddressString>
+  <AddressString><AddressNumber>311</AddressNumber> <StreetNamePreDirectional>N</StreetNamePreDirectional> <StreetName>HOWES</StreetName> <StreetNamePostType>ST</StreetNamePostType> <PlaceName>FORT</PlaceName> <PlaceName>COLLINS</PlaceName> <StateName>CO</StateName> <ZipCode>80521</ZipCode></AddressString>
+</AddressCollection>
