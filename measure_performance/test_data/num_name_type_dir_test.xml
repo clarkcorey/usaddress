@@ -1,0 +1,4 @@
+<AddressCollection>
+  <AddressString><AddressNumber>3415</AddressNumber> <StreetName>9TH</StreetName> <StreetNamePostType>AVE</StreetNamePostType> <StreetNamePostDirectional>WEST</StreetNamePostDirectional> <PlaceName>LAKE</PlaceName> <PlaceName>TAPPS</PlaceName> <StateName>WA</StateName> <ZipCode>98391</ZipCode></AddressString>
+  <AddressString><AddressNumber>999</AddressNumber> <StreetName>DUSTY</StreetName> <StreetNamePostType>RD</StreetNamePostType> <StreetNamePostDirectional>SOUTH</StreetNamePostDirectional> <PlaceName>SEATTLE</PlaceName> <StateName>WA</StateName> <ZipCode>98108</ZipCode></AddressString>
+</AddressCollection>

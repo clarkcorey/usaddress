@@ -1,0 +1,7 @@
+<AddressCollection>
+  <AddressString><AddressNumber>5436</AddressNumber> <StreetName>9</StreetName> <StreetNamePostType>AVE</StreetNamePostType> <StreetNamePostDirectional>WEST</StreetNamePostDirectional> <PlaceName>TWIN</PlaceName> <PlaceName>FALLS</PlaceName> <StateName>ID</StateName> <ZipCode>83301</ZipCode></AddressString>
+  <AddressString><AddressNumber>2599</AddressNumber> <StreetName>212TH</StreetName> <StreetNamePostType>AVE</StreetNamePostType> <StreetNamePostDirectional>SOUTH</StreetNamePostDirectional> <PlaceName>LAKE</PlaceName> <PlaceName>TAPPS</PlaceName> <StateName>WA</StateName> <ZipCode>98391</ZipCode></AddressString>
+  <AddressString><AddressNumber>66</AddressNumber> <StreetName>TWIST</StreetName> <StreetNamePostType>ST</StreetNamePostType> <StreetNamePostDirectional>EAST</StreetNamePostDirectional> <PlaceName>SEATTLE</PlaceName> <StateName>WA</StateName> <ZipCode>98108</ZipCode></AddressString>
+  <AddressString><AddressNumber>345</AddressNumber> <StreetName>9TH</StreetName> <StreetNamePostType>RD</StreetNamePostType> <StreetNamePostDirectional>EAST</StreetNamePostDirectional> <PlaceName>LAKE</PlaceName> <PlaceName>TAPPS</PlaceName> <StateName>WA</StateName> <ZipCode>98391</ZipCode></AddressString>
+  <AddressString><AddressNumber>9972</AddressNumber> <StreetName>PERIMETER</StreetName> <StreetNamePostType>RD</StreetNamePostType> <StreetNamePostDirectional>EAST</StreetNamePostDirectional> <PlaceName>SEATTLE</PlaceName> <StateName>WA</StateName> <ZipCode>98108</ZipCode></AddressString>
+</AddressCollection>
